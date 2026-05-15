@@ -8,7 +8,7 @@ ICD: FA70, 9D90.6, MB44, AB37
 
 # Notre Dame de Paris
 
-Composed by Italian musician Riccardo Cocciante (1946–Present), the song "*Le Pape des Fous*" from the musical Notre-Dame de Paris sonically depicts the physical impairments of the protagonist, Quasimodo, within the ironic context of a public festival. Over a grand yet grotesque rhythm, the lyrics explicitly label him as "one-eyed, lame, and hunchbacked," transforming his physical reality into a "spectacle of ugliness" for the amusement of the masses. The composer intentionally utilizes a raspy, strained vocal style for Quasimodo’s parts, translating his physical asymmetry and internal suffering into a raw musical texture. This approach effectively forces the audience to confront the cruel societal gaze that marginalizes individuals based on their physical differences.
+Composed by Italian musician Riccardo Cocciante (1946–Present),the song "*Le Pape des Fous*" from the musical Notre-Dame de Paris sonically depicts the physical impairments of the protagonist, Quasimodo, within the ironic context of a public festival. Over a grand yet grotesque rhythm, the lyrics explicitly label him as "one-eyed, lame, and hunchbacked," transforming his physical reality into a "spectacle of ugliness" for the amusement of the masses. The composer intentionally utilizes a raspy, strained vocal style for Quasimodo’s parts, translating his physical asymmetry and internal suffering into a raw musical texture. This approach effectively forces the audience to confront the cruel societal gaze that marginalizes individuals based on their physical differences.
 
 # 노트르담 드 파리
 
